@@ -35,6 +35,11 @@ img {
   max-width: 100%;
 }
 
+select option {
+  background-color: #1a1a2e;
+  color: #ffffff;
+}
+
 /* NAVBAR */
 .navbar {
   display: flex;
